@@ -12,5 +12,10 @@ setup(
     author="Frank Lehner",
     author_email="frank.lehner71@t-online.de",
     packages=find_packages(),
-    install_requires=[]
+    install_requires=[
+        "numpy",
+        "pandas",
+        "scipy",
+        "matplotlib"
+    ]
 )
