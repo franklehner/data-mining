@@ -16,6 +16,17 @@ setup(
         "numpy",
         "pandas",
         "scipy",
-        "matplotlib"
+        "matplotlib",
+        "Cython",
+        "scikit-learn",
+        "tensorflow",
+        "theano",
+        "keras",
+        "h5py",
+        "tables",
+        "pillow",
+        "opencv-python",
+        "gensim",
+        "click",
     ]
 )
