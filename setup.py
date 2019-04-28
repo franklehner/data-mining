@@ -28,5 +28,6 @@ setup(
         "opencv-python",
         "gensim",
         "click",
+        "geopandas",
     ]
 )
