@@ -29,5 +29,6 @@ setup(
         "gensim",
         "click",
         "geopandas",
+        "seaborn",
     ]
 )
