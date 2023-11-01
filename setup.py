@@ -30,5 +30,15 @@ setup(
         "click",
         "geopandas",
         "seaborn",
-    ]
+        "pyarrow",
+        "pytest",
+        "mypy",
+        "pudb",
+    ],
+    test_requires=[
+        "pytest",
+        "pudb",
+        "pytest-pudb",
+        "mypy",
+    ],
 )
